@@ -25,7 +25,7 @@ The detailed findings, methodologies, and implementation details can be found in
 ## How to Use
 
 1. Clone the repository: `git clone <repository_url>`
-2. Navigate to the project directory: `cd drug-classification-ml`
+2. Navigate to the project directory: `cd medication-classification-ml`
 3. Set up your Python environment (recommended: virtual environment).
 4. Install dependencies: `pip install -r requirements.txt`
 5. Explore the Jupyter Notebook and refer to the PDF documentation for detailed insights into the project.
